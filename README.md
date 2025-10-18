@@ -8,9 +8,10 @@ Clean, minimal, and fully responsive.
 
 ## 🖼️ Preview
 
-![Preview GIF](./preview.gif)
-
----
+<p align="center">
+  <img src="./pic/prev.png" alt="Preview 1" width="45%" />
+  <img src="./pic/prev2.png" alt="Preview 2" width="45%" />
+</p>
 
 ## 🚀 Features
 
